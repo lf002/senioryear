@@ -1,3 +1,15 @@
-<Solution>
-  <Project Path="firstproject/firstproject.csproj" />
-</Solution>
+using System;
+
+namespace GettingInput
+{
+    class Program
+    {
+        static void Main()
+        {
+            // This is a comment by the goat lucas freyn
+            Console.WriteLine("How old are you?");
+            string input = Console.ReadLine();
+            Console.WriteLine($"You are {input} years old!");
+        }
+    }
+}
