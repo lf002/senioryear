@@ -1,0 +1,15 @@
+C:\Users\Seniors\source\repos\datadetective\datadetective\bin\Debug\net10.0\datadetective.exe
+C:\Users\Seniors\source\repos\datadetective\datadetective\bin\Debug\net10.0\datadetective.deps.json
+C:\Users\Seniors\source\repos\datadetective\datadetective\bin\Debug\net10.0\datadetective.runtimeconfig.json
+C:\Users\Seniors\source\repos\datadetective\datadetective\bin\Debug\net10.0\datadetective.dll
+C:\Users\Seniors\source\repos\datadetective\datadetective\bin\Debug\net10.0\datadetective.pdb
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.AssemblyInfoInputs.cache
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.AssemblyInfo.cs
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.csproj.CoreCompileInputs.cache
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.dll
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\refint\datadetective.dll
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.pdb
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadetective.genruntimeconfig.cache
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\ref\datadetective.dll
+C:\Users\Seniors\source\repos\datadetective\datadetective\obj\Debug\net10.0\datadete.D9B4825B.Up2Date
