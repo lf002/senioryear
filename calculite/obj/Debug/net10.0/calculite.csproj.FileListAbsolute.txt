@@ -1,0 +1,15 @@
+C:\Users\Seniors\source\repos\calculite\calculite\bin\Debug\net10.0\calculite.exe
+C:\Users\Seniors\source\repos\calculite\calculite\bin\Debug\net10.0\calculite.deps.json
+C:\Users\Seniors\source\repos\calculite\calculite\bin\Debug\net10.0\calculite.runtimeconfig.json
+C:\Users\Seniors\source\repos\calculite\calculite\bin\Debug\net10.0\calculite.dll
+C:\Users\Seniors\source\repos\calculite\calculite\bin\Debug\net10.0\calculite.pdb
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.AssemblyInfoInputs.cache
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.AssemblyInfo.cs
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.csproj.CoreCompileInputs.cache
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.dll
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\refint\calculite.dll
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.pdb
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.genruntimeconfig.cache
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\ref\calculite.dll
+C:\Users\Seniors\source\repos\calculite\calculite\obj\Debug\net10.0\calculite.csproj.Up2Date
